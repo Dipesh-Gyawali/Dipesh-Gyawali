@@ -25,7 +25,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Dipesh-Gyawali&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="256px"/>
+<img src="https://rm.up.railway.app/" alt="<span style='font-weight: bold; font-size: 100px;'>YOUR CAREER</span>" width="256px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dipesh-Gyawali&icon=0&color=6)](https://visitcount.itsvg.in)
