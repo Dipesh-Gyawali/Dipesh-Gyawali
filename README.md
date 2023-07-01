@@ -5,6 +5,7 @@
   }
 </style>
 
+<body>
 # 💫 About Me:
 <br>    👋 Hi, I’m Dipesh-Gyawali<br>    👀 I’m interested in Full Stack Development.<br>    🌱 I’m currently learning Django and React.<br>    💞️ I’m looking to collaborate on Project.<br>    📫 How to reach me : dipeshgyawali365@gmail.com<br>
 
@@ -32,9 +33,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Dipesh-Gyawali&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="100px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dipesh-Gyawali&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</body>
