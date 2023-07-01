@@ -1,3 +1,10 @@
+<style>
+  body {
+    background-color: #1f1f1f;
+    color: #ffffff;
+  }
+</style>
+
 # 💫 About Me:
 <br>    👋 Hi, I’m Dipesh-Gyawali<br>    👀 I’m interested in Full Stack Development.<br>    🌱 I’m currently learning Django and React.<br>    💞️ I’m looking to collaborate on Project.<br>    📫 How to reach me : dipeshgyawali365@gmail.com<br>
 
